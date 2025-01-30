@@ -17,8 +17,9 @@
 * [User Tips](tutorials/user-tips/README.md)
   * [Show 'My InBasket' on Login](tutorials/user-tips/show-my-inbasket-on-login.md)
   * [Comment on a Drawing](tutorials/user-tips/comment-on-a-drawing.md)
-* [Dev Tips](tutorials/dev-tips/README.md)
-  * [Untitled](tutorials/dev-tips/untitled.md)
+* [Cookbook](tutorials/cookbook/README.md)
+  * [Create an Aras Innovator Object](tutorials/cookbook/create-an-aras-innovator-object.md)
+  * [Code Sample Template](tutorials/cookbook/code-sample-template.md)
 
 ## Guides
 
